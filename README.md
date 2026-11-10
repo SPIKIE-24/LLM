@@ -211,8 +211,8 @@ The four notebooks contain the implementations and experiments for the different
 | Notebook | Model | Main Phase Coverage |
 |---|---|---|
 | `M1_full_notebook.ipynb` | M1 — MHA | Phases 1–7 |
-| `M2_full_notebook.ipynb` | M2 — MQA | Phases 3–6 |
-| `M3_full_notebook.ipynb` | M3 — GQA | Phases 3–6 |
+| `M2_full_notebook.ipynb` | M2 — MQA | Phases 1–6 |
+| `M3_full_notebook.ipynb` | M3 — GQA | Phases 1–6 |
 | `M4_full_notebook.ipynb` | M4 — MLA | Phases 1–6 |
 
 The notebooks preserve their recorded cell outputs and execution history.
